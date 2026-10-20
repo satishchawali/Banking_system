@@ -1,0 +1,1 @@
+﻿-- Create demo data through the application to ensure PIN hashes are generated. No plaintext credentials.
